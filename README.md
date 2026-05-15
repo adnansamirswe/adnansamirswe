@@ -1,8 +1,8 @@
 # Adnan Samir
-
 Software Engineer & CSE Student. Building tools and scalable infrastructure.
 
 ### Current Work
+* **[VerifyTaka](https://verifytaka.com)** — SMS-based payment verification gateway for bKash, Nagad & Rocket. Built on Cloudflare Workers + D1.
 * **[InsertKit](https://insertkit.com)** — Cross-platform text expansion utility.
 * **[Simple DB Backup](https://simpledbbackupfrontend.vercel.app/)** — Database backup tool integrated with Cloudflare R2 storage.
 * **Cargo Management App** — Full-stack web application for tracking international cargo logistics.
